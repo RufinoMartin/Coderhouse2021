@@ -1,4 +1,4 @@
-# DataScience2021
+# CoderHouse Proyecto Final 2022 : Predeciendo el precio del Indice Global Energetico con modelos de aprendizaje automatico. 
 
 Este repositorio exhibe el desarrollo  de un Modelo de Machine Learning que correlaciona precios de commodities e indices bursatiles con las medidas ejecutadas por los gobiernos del todo el mundo frente al COVID19.
 

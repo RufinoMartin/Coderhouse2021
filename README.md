@@ -16,3 +16,5 @@ La lista de archivos actualizada de este repositorio consiste de:
 Los integrantes de este proyecto: 
 
 Pedro Vernengo & Rufino Martin
+
+If unable ro render notebook in github, just copy URL and see it without issues at https://nbviewer.org/, or download it locally. 

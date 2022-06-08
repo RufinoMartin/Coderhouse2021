@@ -9,6 +9,8 @@ The updated file list for this repository consists of:
 
 - 1 .IPYNB file named "Energy_Index_Model.ipynb", body of the main code of the work.
 
+- 1 .PPTX file named "Executive Presentation", which consists of slides that summarize the development.
+
 - 3 .IPBYNB files that document the first acquisition, cleaning and selection within the datasets.
 (These are named X_Final.ipynb)
 

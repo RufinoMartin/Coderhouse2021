@@ -20,3 +20,5 @@ The members of this project:
 Pedro Vernengo & Rufino Martin
 
 If unable to render notebook in github, just copy URL and see it without issues at https://nbviewer.org/, or download it locally.
+
+Full Documentation Avaiable at request.

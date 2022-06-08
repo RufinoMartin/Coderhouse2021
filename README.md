@@ -1,20 +1,20 @@
-# CoderHouse Proyecto Final 2022 : Predeciendo el precio del Indice Global Energetico con modelos de aprendizaje automatico. 
+# Predicting the price of the Global Energy Index with ML models.
 
-Este repositorio exhibe el desarrollo  de un Modelo de Machine Learning que correlaciona precios de commodities e indices bursatiles con las medidas ejecutadas por los gobiernos del todo el mundo frente al COVID19. 
+This repository exhibits the development of a Machine Learning Model that correlates commodity prices and stock market indices with the measures implemented by governments around the world against COVID19.
 
-La lista de archivos actualizada de este repositorio consiste de:
-
-
-- 1 archivo .CSV que recibe el nombre de "DatasetFinal.csv", producto del procesamiento de todos los datasets de fuentes primarias. 
-
-- 1 archivo .IPYNB que recibe el nombre de "Indice_Energetico_Modelo_ML.ipynb", cuerpo de codigo principal del trabajo. 
-
-- 3 archivos .IPBYNB que documentan la primera adquisicion, limpieza y seleccion dentro de los datasets. 
-(Estos reciben el nombre de X_Final.ipynb)
+The updated file list for this repository consists of:
 
 
-Los integrantes de este proyecto: 
+- 1 .CSV file named "DatasetFinal.csv", product of the processing of all primary source datasets.
+
+- 1 .IPYNB file named "Energy_Index_Model.ipynb", body of the main code of the work.
+
+- 3 .IPBYNB files that document the first acquisition, cleaning and selection within the datasets.
+(These are named X_Final.ipynb)
+
+
+The members of this project:
 
 Pedro Vernengo & Rufino Martin
 
-If unable ro render notebook in github, just copy URL and see it without issues at https://nbviewer.org/, or download it locally. 
+If unable to render notebook in github, just copy URL and see it without issues at https://nbviewer.org/, or download it locally.

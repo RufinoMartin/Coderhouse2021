@@ -5,19 +5,16 @@ This repository exhibits the development of a Machine Learning Model that correl
 The updated file list for this repository consists of:
 
 
-- 1 .CSV file named "DatasetFinal.csv", product of the processing of all primary source datasets.
+- 1 .PPTX file named "Executive Presentation", which consists of slides that summarize the development.
 
 - 1 .IPYNB file named "Energy_Index_Model.ipynb", body of the main code of the work.
 
-- 1 .PPTX file named "Executive Presentation", which consists of slides that summarize the development.
-
 - 3 .IPBYNB files that document the first acquisition, cleaning and selection within the datasets.
-(These are named X_Final.ipynb)
+
+- 1 .CSV file named "DatasetFinal.csv", product of the processing of all primary source datasets.
 
 
-The members of this project:
-
-Pedro Vernengo & Rufino Martin
+The members of this project: Pedro Vernengo & Rufino Martin
 
 If unable to render notebook in github, just copy URL and see it without issues at https://nbviewer.org/, or download it locally.
 
